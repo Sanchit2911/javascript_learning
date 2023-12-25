@@ -5,7 +5,7 @@
 
 console.log(3 
     + 
-      3) // code readibility should be high
+      3) // code readibility should be high. It should not be used
 
 console.log("Sanchit")
 
