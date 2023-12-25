@@ -14,10 +14,10 @@ console.log("Sanchit")
 let name = "Sanchit" // string => " "
 let age = 18 // number => 2 to the power of 53
 let isLoggedIn = false // boolean => true/false
-let state; // undefined
+let state; // undefined => declared but value is not assigned
 let city = null
 
-// null => standalone value
+// null => standalone value/empty value
 // symbol => unique
 
 
